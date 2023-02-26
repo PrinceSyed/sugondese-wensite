@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+:root {
+    --primary-color: #000; 
+  }
+  
