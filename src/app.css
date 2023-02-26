@@ -11,3 +11,6 @@
     --primary-color: #000; 
   }
   
+.bg-base-dark {
+    background: #000;
+}

@@ -24,10 +24,10 @@
 </div>
 
 <!-- Collectibles Title -->
-<div id="collectibles" class="mt-10 mb-10 pb-20 pt-5">
+<div id="collectibles" class="lg:mt-28 md:mt-0 mb-10 pb-20 pt-5">
   <div class="container text-center">
     <div class="max-w-md mx-auto mb-10">
-      <h3 class="font-bold text-3xl">Game Ready Collectibes</h3>
+      <h3 class="font-bold text-3xl">Game Ready Collectibles</h3>
       <p class="pt-2">
         This game was made with collectibles integration in mind from day one.
         The game is free to play for everyone but these skins will give you
@@ -55,7 +55,7 @@
     <!-- Card 1 -->
     <div class="card card-compact bg-base-100 shadow-xl">
       <figure>
-        <img src="/images/collectible-image-2.png" alt="Sugon Collectible 2" />
+        <img src="/images/collectible-image-2.png" alt="Sugon Collectible " />
       </figure>
       <div class="card-body">
         <h2 class="card-title"> Ninja 2</h2>
@@ -87,17 +87,17 @@
 <!-- Start Lore -->
 
 <div id="lore">
-  <div class="hero min-h-screen bg-base-content text-base-100">
+  <div class="hero py-32 text-base-100">
     <div class="container">
-      <div class="hero-content flex-col lg:flex-row-reverse">
-        <img src="/images/zach.png" alt="Sugon Collectible 1" />
+      <div class="hero-content flex-col lg:flex-row-reverse gap-x-6">
+        <img src="/images/ninja-lore.png" alt="Ninja Lore" />
         <div>
           <h3 class="font-bold text-3xl">Lore</h3>
           <p class="py-6">
-            These Ninjas are from the land of Sugondese. They are kind hearted Ninjas but they have a gambing addiction which caused them to lose their Dojo to the evil rich billionaird Mr Landon. 
+            These Ninjas are from the land of Sugondese. They are kind hearted Ninjas but they have a gambing addiction which caused them to lose their Dojo to the evil rich billionaire Mr Landon. 
           </p>
           <p>
-            Ever since then, they have been participating in Game Shows hosted by the elite, putting their bodies on line just to make some shitcoin which hopefully they can use to buy back their dojo. If the shitcoin devs don’t rug of course. 
+            Ever since then, they have been participating in Game Shows hosted by Mr Landon, putting their bodies on line just to make some shitcoin which hopefully they can use to buy back their dojo. If the shitcoin devs don’t rug of course. 
           </p>
        
         </div>
@@ -114,7 +114,10 @@
     left: 0px;
     width: 100%;
     z-index: -1;
+    object-fit: cover;
   }
+
+ 
 
   .hero-content.main-hero  {
     background: rgba(239, 204, 255, 0.75);
@@ -122,6 +125,15 @@
     padding: 30px 30px;
     border-radius: 10px;
     margin: -60px 0px 0px 0px;
+  }
+
+  .hero-lore {
+    padding: 50px 0px;
+  }
+
+  #lore {
+    background: url('/images/lore-bg.jpg');
+    background-size: cover;
   }
 
   @media (max-width: 600px) {
