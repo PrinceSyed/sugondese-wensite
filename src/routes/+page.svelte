@@ -2,6 +2,7 @@
   <div class="sugon-video-container">
     <video class="sugon-video" autoplay loop>
       <source src="/images/sugon-demo-1.mp4" type="video/mp4" />
+      <source src="/images/sugon-demo-1.webm" type="video/webm" />
     </video>
   </div>
 
