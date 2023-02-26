@@ -85,4 +85,10 @@
     border-radius: 10px;
     margin: -60px 0px 0px 0px;
   }
+
+  @media (max-width: 600px) {
+    .min-h-screen {
+      min-height: 50vh;
+    }
+  }
 </style>
