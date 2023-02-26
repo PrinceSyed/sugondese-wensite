@@ -4,10 +4,11 @@
 
 <!-- Navbar -->
 
+
 <div class="navbar bg-base-100">
 	<div class="container">
 		<div class="flex-1">
-			<img src="../src/static/sugon-icon.png" alt="Sugondese Ninjas Game Logo"/>
+			<img src="/images/sugon-icon.png" alt="Sugondese Ninjas Game Logo"/>
 		</div>
 		<div class="flex-none">
 			<ul class="menu menu-horizontal px-1">

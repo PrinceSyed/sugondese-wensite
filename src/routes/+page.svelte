@@ -20,7 +20,7 @@
     <!-- Card 1 -->
     <div class="card card-compact bg-base-100 shadow-xl">
       <figure>
-        <img src="../src/static/zach.png" alt="Sugon Collectible 1" />
+        <img src="/images/zach.png" alt="Sugon Collectible 1" />
       </figure>
       <div class="card-body">
         <h2 class="card-title">Landon</h2>
@@ -35,7 +35,7 @@
     <!-- Card 1 -->
     <div class="card card-compact bg-base-100 shadow-xl">
       <figure>
-        <img src="../src/static/zach.png" alt="Sugon Collectible 1" />
+        <img src="/images/zach.png" alt="Sugon Collectible 1" />
       </figure>
       <div class="card-body">
         <h2 class="card-title">Landon</h2>
@@ -50,7 +50,7 @@
     <!-- Card 1 -->
     <div class="card card-compact bg-base-100 shadow-xl">
       <figure>
-        <img src="../src/static/zach.png" alt="Sugon Collectible 1" />
+        <img src="/images/zach.png" alt="Sugon Collectible 1" />
       </figure>
       <div class="card-body">
         <h2 class="card-title">Landon</h2>
