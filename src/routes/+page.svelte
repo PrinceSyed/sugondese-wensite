@@ -38,7 +38,7 @@
 
   <div class="collectibles container flex gap-x-6 gap-y-4 max-sm:flex-col">
     <!-- Card 1 -->
-    <div class="card card-compact bg-base-100 shadow-xl">
+    <div class="card card-compact bg-base-100 shadow-xl mb-10">
       <figure>
         <img src="/images/collectible-image-1.png" alt="Sugon Collectible 1" />
       </figure>
@@ -53,7 +53,7 @@
     <!-- End Card 1 -->
 
     <!-- Card 1 -->
-    <div class="card card-compact bg-base-100 shadow-xl">
+    <div class="card card-compact bg-base-100 shadow-xl mb-10">
       <figure>
         <img src="/images/collectible-image-2.png" alt="Sugon Collectible " />
       </figure>
@@ -68,7 +68,7 @@
     <!-- End Card 1 -->
 
     <!-- Card 1 -->
-    <div class="card card-compact bg-base-100 shadow-xl">
+    <div class="card card-compact bg-base-100 shadow-xl mb-10">
       <figure>
         <img src="/images/collectible-image-1.png" alt="Sugon Collectible 3" />
       </figure>
