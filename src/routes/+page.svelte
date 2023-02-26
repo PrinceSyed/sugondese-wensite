@@ -1,8 +1,7 @@
 <div class="hero min-h-screen">
   <div class="sugon-video-container">
-    <video autoplay loop class="sugon-video">
+    <video class="sugon-video" autoplay loop>
       <source src="/images/sugon-demo.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
     </video>
   </div>
 
