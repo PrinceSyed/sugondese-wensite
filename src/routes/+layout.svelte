@@ -30,6 +30,7 @@
 .navbar {
     backdrop-filter: blur(5px);
 	background: #000c;
+	margin-bottom: 20px;
 }
 .nav-img {
 	max-width: 50px;
