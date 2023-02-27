@@ -94,7 +94,7 @@
         <div>
           <h3 class="font-bold text-3xl">Lore</h3>
           <p class="py-6">
-            These Ninjas are from the land of Sugondese. They are kind hearted Ninjas but they have a gambing addiction which caused them to lose their Dojo to the evil rich billionaire Mr Landon. 
+            These Ninjas are from the land of Sugondese. They are kind hearted Ninjas but they have a gambling addiction which caused them to lose their Dojo to the evil rich billionaire Mr Landon. 
           </p>
           <p>
             Ever since then, they have been participating in Game Shows hosted by Mr Landon, putting their bodies on line just to make some shitcoin which hopefully they can use to buy back their dojo. If the shitcoin devs don’t rug of course. 
