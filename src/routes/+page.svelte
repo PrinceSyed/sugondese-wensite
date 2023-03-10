@@ -15,10 +15,16 @@
         Mini game where you try to get these little ninjas out of a gambling
         debt by collecting shitcoins.
       </p>
-      <a href="https://discord.gg/K6Qz93YZEd" target="_blank" rel="noreferrer">
+
+      <!-- <a href="https://discord.gg/K6Qz93YZEd" target="_blank" rel="noreferrer">
         <button class="btn btn-primary w-full"> Join DIscord For Updates </button>
-      </a> 
-      <p class="text-sm mt-2"> Coming Soon on Windows and Macs </p>
+      </a>  -->
+
+      <a href="https://play.sugninjas.com/" target="_blank" rel="noreferrer">
+        <button class="btn btn-primary w-full"> Play Now </button>
+      </a>
+
+      <p class="text-sm mt-2">Free to play on Windows and Macs</p>
     </div>
   </div>
 </div>
@@ -40,13 +46,20 @@
     <!-- Card 1 -->
     <div class="card card-compact bg-base-100 shadow-xl mb-10">
       <figure>
-        <img src="/images/collectible-image-1.png" alt="Sugon Collectible 1" />
+        <img src="/images/colletible-lee-gandhi.png" alt="Sugon Collectible 1" />
       </figure>
       <div class="card-body">
-        <h2 class="card-title"> Ninja 1</h2>
-        <p> Digital collectible coming soon </p>
+        <h2 class="card-title">Lee Gandhi</h2>
+        <p class="-mt-3 mb-3"> 420 Minted. In game skin + leaderboard access.  </p>
         <div class="card-actions justify-center">
-          <!-- <button class="btn btn-primary w-full"> View Collectible </button> -->
+          <a class="w-full"
+            href="https://app.manifold.xyz/c/sn-lee-gandhi"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button class="btn btn-primary w-full"> Get It Now </button>
+          </a>
+         
         </div>
       </div>
     </div>
@@ -58,8 +71,8 @@
         <img src="/images/collectible-image-2.png" alt="Sugon Collectible " />
       </figure>
       <div class="card-body">
-        <h2 class="card-title"> Ninja 2</h2>
-        <p> Digital collectible coming soon </p>
+        <h2 class="card-title">Ninja 2</h2>
+        <p>Digital collectible coming soon</p>
         <div class="card-actions justify-center">
           <!-- <button class="btn btn-primary w-full"> View Collectible </button> -->
         </div>
@@ -73,8 +86,8 @@
         <img src="/images/collectible-image-1.png" alt="Sugon Collectible 3" />
       </figure>
       <div class="card-body">
-        <h2 class="card-title"> Ninja 3</h2>
-        <p> Digital collectible coming soon </p>
+        <h2 class="card-title">Ninja 3</h2>
+        <p>Digital collectible coming soon</p>
         <div class="card-actions justify-center">
           <!-- <button class="btn btn-primary w-full"> View Collectible </button> -->
         </div>
@@ -94,12 +107,21 @@
         <div>
           <h3 class="font-bold text-3xl">Lore</h3>
           <p class="py-6">
-            These Ninjas are from the land of Sugondese. They are kind hearted Ninjas but they have a gambling addiction which caused them to lose their Dojo to the evil rich billionaire Mr Landon. 
+            These Ninjas are from the land of Sugondese. They are kind hearted
+            Ninjas but they have a gambling addiction which caused them to lose
+            their Dojo to the evil rich billionaire Mr Landon.
           </p>
           <p>
-            Ever since then, they have been participating in Game Shows hosted by Mr Landon, putting their bodies on line just to make some shitcoin which hopefully they can use to buy back their dojo. If the shitcoin devs don’t rug of course. 
+            Ever since then, they have been participating in Game Shows hosted
+            by Mr Landon, putting their bodies on line just to make some
+            shitcoin which hopefully they can use to buy back their dojo. If the
+            shitcoin devs don’t rug of course.
           </p>
-       
+
+          <a href="https://discord.gg/K6Qz93YZEd" target="_blank" rel="noreferrer">
+            <button class="btn btn-primary mt-10 "> Join The Fun On Discord </button>
+          </a>
+
         </div>
       </div>
     </div>
@@ -117,9 +139,7 @@
     object-fit: cover;
   }
 
- 
-
-  .hero-content.main-hero  {
+  .hero-content.main-hero {
     background: rgba(239, 204, 255, 0.75);
     backdrop-filter: blur(10px);
     padding: 30px 30px;
@@ -132,7 +152,7 @@
   }
 
   #lore {
-    background: url('/images/lore-bg.jpg');
+    background: url("/images/lore-bg.jpg");
     background-size: cover;
   }
 

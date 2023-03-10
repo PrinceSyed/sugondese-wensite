@@ -15,7 +15,7 @@
 				<li><a href="#collectibles"> Collectibles </a></li>
 
 				<li><a href="#lore"> Lore </a></li>
-				<!-- <a href="#lore" class="ml-5">
+				<!-- <a href="https://play.sugninjas.com/" target="_blank" rel="noreferrer">
 					<button class="btn btn-primary"> Play Now </button>
 				</a> -->
 			</ul>
