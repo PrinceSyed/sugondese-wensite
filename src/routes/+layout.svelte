@@ -38,4 +38,13 @@
 	max-width: 50px;
 }
 
+@media only screen and (min-width: 800px)  {
+	.navbar{
+		max-width: 1000px;
+		border-radius: 10px;
+		margin: 0 auto;
+		margin-top: 10px;
+	}
+}
+
 </style>
